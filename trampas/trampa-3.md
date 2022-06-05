@@ -1,0 +1,2 @@
+# Trampa
+La zona está repleta de lazos y el guía los ha visto cuando ya era tarde. Cada persona lanzará un dado y si saca 3 o menos, significa que habrá pisado una de estas trampas y quedará colgado por los pies. Después el guía tirará un dado y será el número de personas que ha conseguido rescatar. Al finalizar se contará las personas que queden colgadas y serán las vidas que pierda el guía por su incompetencia.
