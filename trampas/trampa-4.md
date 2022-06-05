@@ -1,0 +1,2 @@
+# Trampa
+Puente colgante sobre el lago. Para cruzar al otro lado hay que evitar las maderas podridas. Cada personaje tirara un dado y se librarán de la caída solo los que saquen pares. Después el guía se lanzará al agua para rescatar a los desgraciados de ahogarse o ser devorado por pirañas. Lanzará un dado y será el número que es capaz de rescatar. La cantidad de compañeros que no llegue a rescatar, se le restarán vidas.
